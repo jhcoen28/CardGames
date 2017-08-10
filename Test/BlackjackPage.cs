@@ -16,7 +16,7 @@ namespace Test
         Blackjack blackjack;
         List<PictureBox> dealerCardPctBox = new List<PictureBox>();
         List<PictureBox> playerCardPctBox = new List<PictureBox>();
-
+        // test comment
         public BlackjackPage()
         {
             InitializeComponent();
